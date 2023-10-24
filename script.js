@@ -1,5 +1,5 @@
 //console.log('hello');
-alert('Hello');
+//alert('Hello');
 
 function wierdButtonClick() {
   window.open('https://www.google.com');
