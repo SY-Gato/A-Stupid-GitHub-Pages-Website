@@ -2,5 +2,5 @@
 alert('Hello');
 
 function wierdButtonClick() {
-  alert('Yes');
+  window.open('https://www.google.com');
 }
